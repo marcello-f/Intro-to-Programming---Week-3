@@ -1,4 +1,4 @@
-## Intro-to-Programming---Week-3
+# Intro-to-Programming---Week-3
 
 - Created nested lists using list comprehension.
 - Reproduced a plot of the Mertens function.
